@@ -4,4 +4,7 @@ public class Solution {
 
 	
 	// Shut up your mouth
+	
+	
+	// Mind Your Own Bussiness
 }
